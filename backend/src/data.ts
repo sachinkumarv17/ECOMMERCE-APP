@@ -9,7 +9,7 @@ export const sampleProducts : Product[] =[
         price: 1200,
         countInStock: 10,
         brand: 'Nike',
-        rating:4.5,
+        rating:1,
         numReviews:10,
         description:'high quality shirt',
         
@@ -20,9 +20,9 @@ export const sampleProducts : Product[] =[
         category: 'Pants',
         image: '../images/p3.jpg',
         price: 1100,
-        countInStock: 17,
+        countInStock: 12,
         brand: 'Lacoste',
-        rating:4.0,
+        rating:4.8,
         numReviews:18,
         description:'high quality Product',
         
@@ -35,7 +35,7 @@ export const sampleProducts : Product[] =[
         price: 1200,
         countInStock: 20,
         brand: 'Adidas',
-        rating: 1.0,
+        rating:4.0,
         numReviews:10,
         description:'high quality shirt',
         
@@ -48,7 +48,7 @@ export const sampleProducts : Product[] =[
         price: 900,
         countInStock: 11,
         brand: 'Nike',
-        rating:4.5,
+        rating:4.7,
         numReviews:11,
         description:'high quality shirt',
         
